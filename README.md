@@ -1,8 +1,10 @@
-﻿# Smart-StudyMate
+# Smart-StudyMate
 
 **Smart Student Assistant** — a friendly mobile UI prototype that helps university students organize classes, study sessions, assignments, and progress.
 
-![Smart StudyMate logo](outputs/smart_studymate_logo.png)
+<p align="center">
+  <img src="smart_studymate_logo_transparent.png" alt="Smart StudyMate logo" width="260">
+</p>
 
 ## Overview
 
@@ -33,7 +35,7 @@ Smart-StudyMate brings everyday student tools together in one simple dashboard. 
 No package installation or build step is required.
 
 1. Download or clone this repository.
-2. Open `outputs/index.html` in a modern web browser.
+2. Open `figma.html` in a modern web browser.
 3. Use the pre-filled student email and enter any password except `wrong` to see the successful demo login. Enter `wrong` (or leave the field empty) to see the error state.
 4. Select **Admin login · demo access** on the login screen to explore the admin prototype.
 
@@ -42,9 +44,8 @@ No package installation or build step is required.
 ```text
 .
 ├── README.md
-└── outputs/
-    ├── index.html                 # Interactive UI prototype (HTML, CSS, and JavaScript)
-    └── smart_studymate_logo.png   # App logo
+├── figma.html                       # Interactive UI prototype
+└── smart_studymate_logo_transparent.png  # App logo
 ```
 
 ## Notes
